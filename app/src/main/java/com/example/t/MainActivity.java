@@ -7,8 +7,10 @@ import android.widget.EditText;
 
 public class MainActivity extends AppCompatActivity {
 
-    Button bt;
+
     EditText et;
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
